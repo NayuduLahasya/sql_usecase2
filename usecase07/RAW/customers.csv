@@ -1,0 +1,5 @@
+customer_id,customer_name,city,source_name,ingested_at
+C101,Rahul,Hyderabad,customers.csv,2026-11-07 11:59:13.615103
+C102,Priya,Bangalore,customers.csv,2026-11-07 11:59:13.615103
+C103,Amit,Chennai,customers.csv,2026-11-07 11:59:13.615103
+C101,Rahul,Hyderabad,customers.csv,2026-11-07 11:59:13.615103

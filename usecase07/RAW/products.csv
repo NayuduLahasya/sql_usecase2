@@ -1,0 +1,5 @@
+product_id,product_name,price,source_name,ingested_at
+P101,Laptop,50000,products.csv,2026-11-07 11:59:13.615103
+P102,Mobile,20000,products.csv,2026-11-07 11:59:13.615103
+P103,Headphones,2000,products.csv,2026-11-07 11:59:13.615103
+P104,Keyboard,1500,products.csv,2026-11-07 11:59:13.615103
